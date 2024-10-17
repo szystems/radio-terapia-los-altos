@@ -32,37 +32,37 @@
                             <div class="col-lg-12 col-xl-6">
                                 <div class="form-floating">
                                     <input type="text" class="form-control bg-transparent border border-white" id="name" placeholder="Tu Nombre">
-                                    <label for="name">Your Name</label>
+                                    <label for="name">Tu Nombre</label>
                                 </div>
                             </div>
                             <div class="col-lg-12 col-xl-6">
                                 <div class="form-floating">
                                     <input type="email" class="form-control bg-transparent border border-white" id="email" placeholder="Tu Email">
-                                    <label for="email">Your Email</label>
+                                    <label for="email">Tu Email</label>
                                 </div>
                             </div>
                             <div class="col-lg-12 col-xl-6">
                                 <div class="form-floating">
                                     <input type="phone" class="form-control bg-transparent border border-white" id="phone" placeholder="Tu Teléfono">
-                                    <label for="phone">Your Phone</label>
+                                    <label for="phone">Tu Teléfono</label>
                                 </div>
                             </div>
                             <div class="col-lg-12 col-xl-6">
                                 <div class="form-floating">
                                     <input type="text" class="form-control bg-transparent border border-white" id="project" placeholder="Proyecto">
-                                    <label for="project">Your Project</label>
+                                    <label for="project">Proyecto</label>
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="form-floating">
                                     <input type="text" class="form-control bg-transparent border border-white" id="subject" placeholder="Asunto">
-                                    <label for="subject">Subject</label>
+                                    <label for="subject">Asunto</label>
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="form-floating">
                                     <textarea class="form-control bg-transparent border border-white" placeholder="Leave a message here" id="Mensaje..." style="height: 160px"></textarea>
-                                    <label for="message">Message</label>
+                                    <label for="message">Mensaje</label>
                                 </div>
                             </div>
                             <div class="col-12">
